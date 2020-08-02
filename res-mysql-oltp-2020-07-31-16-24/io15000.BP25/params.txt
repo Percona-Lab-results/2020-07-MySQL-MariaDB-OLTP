@@ -1,0 +1,5 @@
+server: mariadb
+buffer_pool: 25
+randtype: uniform
+io_capacity: 15000
+storage: NVMe
