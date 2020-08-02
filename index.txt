@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/Percona-Lab-results/2020-07-MySQL-MariaDB-OLTP/master/res-mysql-oltp-2020-07-31-16-24/io15000.BP25/
+https://raw.githubusercontent.com/Percona-Lab-results/2020-07-MySQL-MariaDB-OLTP/master/res-mysql-oltp-2020-07-31-10-31/io15000.BP25/
